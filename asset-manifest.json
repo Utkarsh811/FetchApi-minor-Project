@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Utkarsh811/FetchApi-minor-Project.git/static/css/main.e6c13ad2.css",
-    "main.js": "/Utkarsh811/FetchApi-minor-Project.git/static/js/main.768011ff.js",
-    "index.html": "/Utkarsh811/FetchApi-minor-Project.git/index.html",
-    "main.e6c13ad2.css.map": "/Utkarsh811/FetchApi-minor-Project.git/static/css/main.e6c13ad2.css.map",
-    "main.768011ff.js.map": "/Utkarsh811/FetchApi-minor-Project.git/static/js/main.768011ff.js.map"
+    "main.css": "/FetchApi-minor-Project/static/css/main.e6c13ad2.css",
+    "main.js": "/FetchApi-minor-Project/static/js/main.768011ff.js",
+    "index.html": "/FetchApi-minor-Project/index.html",
+    "main.e6c13ad2.css.map": "/FetchApi-minor-Project/static/css/main.e6c13ad2.css.map",
+    "main.768011ff.js.map": "/FetchApi-minor-Project/static/js/main.768011ff.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
